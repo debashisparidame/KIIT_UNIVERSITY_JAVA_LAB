@@ -4,6 +4,6 @@ package KIIT_University.Assignment_1;
 
 public class First {
     public static void main(String[] args) {
-        System.out.println("KIIT UNIVERSITY");
+        System.out.println("KIIT UNIVERSITY 2024");
     }
 }
